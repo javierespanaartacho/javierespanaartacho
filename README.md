@@ -1,8 +1,4 @@
-Aquí tienes tu nuevo README adaptado con los datos de Javier España Artacho, manteniendo la misma estructura profesional, dinámica y con el toque técnico que buscas:
-
----
-
-# 🚀 ¡Qué tal! Soy Javier España Artacho
+#  Soy Javier España Artacho
 
 🎓 Apasionado por la tecnología y enfocado en la **implantación de sistemas informáticos**, con especial interés en el ecosistema **Linux** y la gestión de sus recursos.
 
@@ -30,10 +26,6 @@ Aquí tienes tu nuevo README adaptado con los datos de Javier España Artacho, m
 
 Creo firmemente en el método de **aprender haciendo**: levantar entornos, resolver incidencias, documentar cada paso y exprimir al máximo las capacidades de los sistemas. Todo ello queda reflejado en este perfil a través de mis prácticas y proyectos.
 
-## 📫 Hablemos
+## Contacto
 
 * 📧 javierespanaartacho1211@gmail.com
-
----
-
-⭐ *"Configurar, optimizar, evolucionar."*
